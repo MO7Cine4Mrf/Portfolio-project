@@ -8,7 +8,10 @@ Welcome to the Project Portfolio repository! This project is a web application d
 - **Mohcine Maarouf** - Full Stack Developer ([GitHub](https://github.com/MO7Cine4Mrf))
 
 ### Live Demo
-Check out the live demo of the project [here](https://your-deployed-application-url).
+Check out the live demo of the project [here](https://your-deployed-application-url/index.html).
+
+### Visit the Site
+Visit the project's index page [here](https://your-deployed-application-url/index.html).
 
 ## Project Features
 
@@ -30,3 +33,4 @@ Check out the live demo of the project [here](https://your-deployed-application-
 1. Clone the repository:
    ```sh
    git clone https://github.com/MO7Cine4Mrf/portfolio-project.git
+
