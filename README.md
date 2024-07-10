@@ -8,10 +8,10 @@ Welcome to the Project Portfolio repository! This project is a web application d
 - **Mohcine Maarouf** - Full Stack Developer ([GitHub](https://github.com/MO7Cine4Mrf))
 
 ### Live Demo
-Check out the live demo of the project [here](index.html).
+Check out the live demo of the project [here](https://MO7Cine4Mrf.github.io/Portfolio-project).
 
 ### Visit the Site
-Visit the project's index page [here](index.html).
+Visit the project's index page [here](https://MO7Cine4Mrf.github.io/Portfolio-project).
 
 ## Project Features
 
